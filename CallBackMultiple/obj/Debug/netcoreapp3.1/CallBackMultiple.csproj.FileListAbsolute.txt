@@ -1,0 +1,13 @@
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\bin\Debug\netcoreapp3.1\CallBackMultiple.exe
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\bin\Debug\netcoreapp3.1\CallBackMultiple.deps.json
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\bin\Debug\netcoreapp3.1\CallBackMultiple.runtimeconfig.json
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\bin\Debug\netcoreapp3.1\CallBackMultiple.runtimeconfig.dev.json
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\bin\Debug\netcoreapp3.1\CallBackMultiple.dll
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\bin\Debug\netcoreapp3.1\CallBackMultiple.pdb
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.csprojAssemblyReference.cache
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.AssemblyInfoInputs.cache
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.AssemblyInfo.cs
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.dll
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.pdb
+D:\Escritorio\C#\C# Intermedio\CallBackMultiple\obj\Debug\netcoreapp3.1\CallBackMultiple.genruntimeconfig.cache
